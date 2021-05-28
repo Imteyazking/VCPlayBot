@@ -23,7 +23,7 @@ Maintained by @Imteyaz_king  ❤
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 Music World", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT",
+                        "🌍 FRIENDS FOREVER", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT",
                     )
                 ],
                 [
