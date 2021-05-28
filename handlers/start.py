@@ -16,6 +16,7 @@ async def start_(client: Client, message: Message):
 Maintained by @Imteyaz_king  ❤
 \nTo add in your group contact us at @Awesome_support .
 \nUse the buttons below to know more about me.
+ </b>""",nHit /help list of available commands.
  </b>""",
       
        
