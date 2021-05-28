@@ -13,8 +13,8 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
-Maintained by @HEROGAMERS1 ❤
-\nTo add in your group contact us at @LaylaSupport.
+Maintained by @Imteyaz_king  ❤
+\nTo add in your group contact us at @Awesome_support .
 \nUse the buttons below to know more about me.
  </b>""",
       
@@ -23,15 +23,15 @@ Maintained by @HEROGAMERS1 ❤
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 Music World", url="https://t.me/GIRLS_AND_BOYS_CHATTING",
+                        "🌍 Music World", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/LaylaSupport"
+                        "💬 Group", url="https://t.me/Awesome_support"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/Awesome_Lists"
                     ),
                     InlineKeyboardButton(
                         "💾 Source code", url="https://github.com/QueenArzoo/VCPlayBot"
@@ -39,7 +39,7 @@ Maintained by @HEROGAMERS1 ❤
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/VCPlayBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/Vc_ImteyazMusic_bot?startgroup=true"
                     )
                 ]
             ]
