@@ -39,7 +39,7 @@ Maintained by @Imteyaz_king  ❤
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/Vc_ImteyazMusic_bot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/@VC_Imteyaz_bot?startgroup=true"
                     )
                 ]
             ]
