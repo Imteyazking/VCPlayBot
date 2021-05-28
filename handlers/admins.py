@@ -16,7 +16,7 @@ from helpers.wrappers import errors, admins_only
 @admins_only
 async def pause(client: Client, message: Message):
     tgcalls.pytgcalls.pause_stream(message.chat.id)
-    await message.reply_text("✯𝗩𝗖𝗣𝗹𝗮𝘆✯=⏸ Paused.")
+    await message.reply_text("✯𝗩𝗖 Imteyaz ab ruk✯=⏸ Paused.")
 
 
 @Client.on_message(
