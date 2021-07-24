@@ -14,7 +14,7 @@ async def start_(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
 Maintained by @Imteyaz_king  ❤
-\nTo add in your group contact us at @Awesome_support .
+\nTo add in your group contact us at  @King_fighter_Bot_support .
 \nUse the buttons below to know more about me.
  </b>""",nHit /help list of available commands.
  </b>""",
@@ -24,23 +24,23 @@ Maintained by @Imteyaz_king  ❤
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 FRIENDS FOREVER", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT",
+                        "🌍 Love Talks", url="https://t.me/love_talks_fam",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/Awesome_support"
+                        "💬 Group", url="https://t.me/King_fighter_Bot_support"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/Awesome_Lists"
+                        " Maar Group", url="https://t.me/Dekh_tera_baap_aaya"
                     ),
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/QueenArzoo/VCPlayBot"
+                        "💾 Creator", url="https://t.me/Imteyaz_king"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/VC_Imteyaz_bot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/LoveTalksMusic_Bot?startgroup=true"
                     )
                 ]
             ]
